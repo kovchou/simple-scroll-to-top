@@ -1,0 +1,17 @@
+.ndon_widget_to_top_area_class{
+    top:20px;
+    left:auto;
+    right:20px;
+    height:30px;
+    width:30px;
+    background:url('back.png') #666666;
+    position: fixed;
+    z-index: 10000;
+    border-radius: 4px;
+    cursor:pointer;
+}
+
+.ndon_noselect {
+    -moz-user-select: none;
+    user-select: none;
+}
